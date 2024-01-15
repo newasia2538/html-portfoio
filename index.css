@@ -1,0 +1,31 @@
+.roboto-mono-400 {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .roboto-mono-400-bold {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: bold;
+  }
+
+  .roboto-mono-200 {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
+
+  .border-round-5-percent{
+    border: 1px solid white;
+    padding: 1.5rem;
+    border-radius: 25%;
+  }
+
+  body > div{
+    padding-left: 3rem!important; 
+    padding-right: 3rem!important;
+  }
