@@ -29,3 +29,19 @@
     padding-left: 3rem!important; 
     padding-right: 3rem!important;
   }
+
+  li a.nav-link{
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  li a.nav-link.active{
+    font-family: "Prompt", sans-serif;
+    font-weight: 500;
+    font-style: bold;
+  }
+
+  div.a {
+    text-transform: uppercase;
+  }
